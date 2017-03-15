@@ -1,0 +1,5 @@
+Controlador\Controlador.class
+Mapeo\Grupo.class
+Mapeo\Profesor.class
+Modelo\ProfesorDAO.class
+Modelo\GrupoDAO.class
